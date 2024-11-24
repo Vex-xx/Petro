@@ -106,11 +106,11 @@
     }
 
     .formContainer{
-        width: 400px;
+        width: 300px;
     }
 
     .form{
-        height: 400px;
+        height: 350px;
     }
 
     #name,#dob,#nrc,#phone{
