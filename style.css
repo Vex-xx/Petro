@@ -53,13 +53,14 @@
 }
 
 .form label{
+    width: 100px;
     text-align: center;
     border: solid black 2px;
     border-radius: 5px;
     padding: 0.5rem 1rem; 
     background-color: var(--label);
     color: var(--text-color);
-    margin: 0 1rem;
+    margin-right: 1rem;
     box-shadow: 4px 4px white,3px 3px white;
 }
 
@@ -73,12 +74,12 @@
     display: flex;
     justify-content: end;
     align-items: center;
-    padding: 1rem;
+    /* padding: 1rem; */
 }
 
 #name,#dob,#nrc,#phone{
     height: 6vh;
-    margin: 0 1rem;
+    margin-right: 1rem;
     border-radius: 5px;
     box-shadow: 5px 5px black,3px 3px black;
 }
