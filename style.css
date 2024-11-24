@@ -113,9 +113,8 @@
         height: 350px;
     }
 
-    #name,#dob,#nrc,#phone{
-        
-        height: 5vh;
+    #name,#dob,#nrc,#phone{        
+        height: 4vh;
     }
 
     #btnClear,#btnRegister{
